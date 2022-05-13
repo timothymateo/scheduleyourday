@@ -1,4 +1,4 @@
-# Schedule Your Day! | Code Quiz Homework 05
+# Schedule Your Day! | Day Planner Homework 05
 ---
 ### Author: 
 ```
@@ -18,7 +18,7 @@ https://github.com/timothymateo/scheduleyourday
 ```
 ## Website Link: 
 ```
-https://timothymateo.github.io/knowingyourcode/
+https://timothymateo.github.io/scheduleyourday/
 ```
 ---
 ## User Story
@@ -41,5 +41,5 @@ THEN the saved events persist
 ---
 ## Site screenshot
 
-![Knowing Your Code Quiz - starts with a landing page to bein.](./assets/knowingyourcodequiz.jpg)
+![Schedule Your Day - schedule tasks during the business hours with some color coded help.](./sitepic/scheduleyourday.jpg)
 
