@@ -41,5 +41,5 @@ THEN the saved events persist
 ---
 ## Site screenshot
 
-![Schedule Your Day - schedule tasks during the business hours with some color coded help.](./sitepic/scheduleyourday.jpg)
+![Schedule Your Day - schedule tasks during the business hours with some color fun coded help.](./sitepic/scheduleyourday.jpg)
 
