@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqaoAjfNJYmGPxfpaP/giphy-downsized-large.gif" width="200"/>
-</div>
 
 <div id="header" align="center" text-size= "24">
 <h1>
