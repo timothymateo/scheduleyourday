@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqaoAjfNJYmGPxfpaP/giphy-downsized-large.gif" width="350"/>
+  <img src="https://media.giphy.com/media/hqaoAjfNJYmGPxfpaP/giphy-downsized-large.gif" width="200"/>
 </div>
 
 <div id="header" align="center" text-size= "24">
 <h1>
   Schedule Your Day [in a simple way]
-  <img src="https://media.giphy.com/media/4YCCY41GKzDuYeHnWW/giphy.gif" width="50px"/>
+  <img src="https://media.giphy.com/media/4YCCY41GKzDuYeHnWW/giphy.gif" width="10px"/>
 </h1>
 </div>
 
